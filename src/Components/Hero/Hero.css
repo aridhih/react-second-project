@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    width: max-content;
+    align-items: center;
+    align-self: center;
+    margin: 100px auto;
+    margin-bottom: 10px;
+}
+
+.info {
+    width: 595px;
+    height: 620px;
+    gap: 40px;
+    padding: 10px;
+}
+
+.image {
+    width: 470px;
+    height: 520px;
+    gap: 40px;
+}
+
+.info h1 {
+    font-size: 100px;
+    line-height: 90px;
+
+}
+
+.info h5 {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.btn-category {
+    background-color: transparent;
+    margin-left: 50px;
+
+}
+
+.btn-shopnow {
+    background-color: #881010;
+    color: aliceblue;
+    margin-left: 50px;
+}
